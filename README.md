@@ -9,3 +9,4 @@ Encryption and decryption using Fernet from cryptography
 - Your encryption key file
 - Chromium based browser
 - YML encrypted file with your login credentials
+- ChromeDriver version for your browser
